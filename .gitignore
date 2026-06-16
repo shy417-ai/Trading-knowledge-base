@@ -1,0 +1,12 @@
+.DS_Store
+*.tmp
+*.log
+
+# Local editor and OS state
+.idea/
+.vscode/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Optional local exports or scratch files
+_scratch/
